@@ -1,0 +1,7 @@
+.hidden {
+    display: none;
+}
+
+.results h3 {
+    color: red;
+}
